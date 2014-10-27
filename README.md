@@ -8,10 +8,10 @@ A dark color scheme for Sublime Text and TextMate with bold, bright colors that 
 
 ### Sublime Text
 
-1. Open Sublime Text and click on **Preferences > Browser Packages**, to open the Packages folder.
+1. Open Sublime Text and click on **Preferences > Browse Packages**, to open the Packages folder.
 2. Move to the `User` folder
 3. Copy the file `Clearance.tmTheme` there
-4. Select this theme via **Preferences > Color Scheme > User > Clearance'
+4. Select this theme via **Preferences > Color Scheme > User > Clearance**
 5. Enjoy
 
 ### TextMate
